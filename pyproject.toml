@@ -1,0 +1,10 @@
+[project]
+name = "astrogophdeckmwai"
+version = "0.1"
+description = "A Python application for exploring NASA objects."
+requires-python = ">=3.12"
+
+dependencies = [
+    "requests>=2.32",
+    "python-dotenv>=1.0",
+]
